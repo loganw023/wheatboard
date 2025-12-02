@@ -18,4 +18,4 @@ Below is a screenshot of the bottom:
 ## BOM
 I got the BOM from PLCPCB. One includes the parts, and the other includes the final cost. 
 ![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](image-6.png)
